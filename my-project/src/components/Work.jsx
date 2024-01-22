@@ -66,7 +66,7 @@ const Work = () => {
             style={{ backgroundImage: `url(${Realestate})` }}
             className="shadow-lg shadow-[#040c16] group container rounde-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover effect */}
+
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React JS Application
@@ -90,7 +90,6 @@ const Work = () => {
             style={{ backgroundImage: `url(${Realestate})` }}
             className="shadow-lg shadow-[#040c16] group container rounde-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React JS Application
@@ -114,7 +113,6 @@ const Work = () => {
             style={{ backgroundImage: `url(${Realestate})` }}
             className="shadow-lg shadow-[#040c16] group container rounde-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React JS Application
